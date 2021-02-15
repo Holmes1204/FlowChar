@@ -3,7 +3,7 @@
 #include <cassert>
 #include <algorithm>
 
-#include "box.h"
+#include <box.h>
 
 namespace FC { namespace BE {
 

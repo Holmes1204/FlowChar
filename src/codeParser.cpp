@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <cassert>
 
-#include "codeParser.h"
+#include <codeParser.h>
 
 namespace FC { namespace FE {
 

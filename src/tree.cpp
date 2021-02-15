@@ -1,8 +1,8 @@
 #include <iostream>
 #include <algorithm>
 
-#include "tree.h"
-#include "box.h"
+#include <tree.h>
+#include <box.h>
 
 namespace FC { namespace IR {
 

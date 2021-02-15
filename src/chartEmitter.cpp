@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
-
-#include "chartEmitter.h"
+#include <chartEmitter.h>
 
 namespace FC { namespace BE {
 

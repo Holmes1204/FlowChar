@@ -3,9 +3,9 @@
 #include <memory>
 #include <cstring>
 
-#include "codeParser.h"
-#include "tree.h"
-#include "chartEmitter.h"
+#include <codeParser.h>
+#include <tree.h>
+#include <chartEmitter.h>
 
 using namespace FC;
 
